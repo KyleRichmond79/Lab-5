@@ -7,7 +7,7 @@ function testSum() { //eslint-disable-line
     console.log('%c TEST FOR sum() FAILS', 'color: red');
   }
 }
-
+/*
 function testMultiply() { //eslint-disable-line
   if (multiply(5,9)[1] === 'The product of 5 and 9 is 45.') {
     console.log('%c TEST FOR multiply() PASSES', 'color: green');
@@ -39,3 +39,4 @@ function testMultiplyArray() { //eslint-disable-line
     console.log('%c TEST FOR multiplyArray() FAILS', 'color: red');
   }
 }
+*/
